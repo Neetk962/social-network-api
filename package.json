@@ -2,5 +2,16 @@
   "dependencies": {
     "express": "^4.18.2",
     "mongoose": "^8.0.0"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "social-network-api",
+  "description": "An API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. Create an API for a social network that uses a NoSQL database\r sp that the website can handle large amounts of unstructured data",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
